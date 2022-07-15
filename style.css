@@ -1,0 +1,28 @@
+body{
+    background-image:url("https://i.pinimg.com/originals/08/7b/84/087b84861aa0e7ada29738e44f437fee.jpg");
+    background-repeat:no-repeat;
+   background-size:1950px;
+   
+}
+div{
+    border-width: 50px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+}
+#div_1{
+margin-left: 400px;
+margin-bottom: 100px;
+padding: 10px;
+padding-bottom: 10px;
+}
+#div_2{
+    margin-left: 400px;
+    padding: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+}
+#btn-1{
+    background-color: hotpink;
+    color:blanchedalmond;
+}
